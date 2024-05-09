@@ -1,5 +1,4 @@
 
-from platform import win32_ver
 import sys
 import math
 import glob
